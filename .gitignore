@@ -1,0 +1,34 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+caleox-spaceforum*
+caleox-spaceforum-*
+
+# Test binary, build output
+*.test
+/build/
+/bin/
+/out/
+
+# Go modules
+/go.sum
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temp
+*.log
+/tmp/
